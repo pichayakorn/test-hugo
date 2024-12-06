@@ -136,7 +136,7 @@ Software:
 - OS: macOS Sonoma Version 14.5
 - Python: 3.11.xx
 - Unity: 2019.4.40f1 - [Science Birds Evaluator](https://github.com/chatgpt4pcg/modified-science-birds)
-- [Our automation scripts](/competition/resources)
+- [Our automation scripts]({{< ref "/competition/resources" >}})
 
 Hardware:
 
