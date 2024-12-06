@@ -1,6 +1,6 @@
 # Hugo configuration file
 title: LLMs4PCG 2025
-baseURL: https://pichayakorn.github.io/2025-llms4pcg
+baseURL: https://pichayakorn.github.io/test-hugo
 
 # import hextra as module
 module:
